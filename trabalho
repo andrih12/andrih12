@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <title> Formulario Trabalhe <Conosco!></title>
+    </head>
+    <body>
+        <h1>Cadastro de Dado</h1>
+        <forms>
+            <label>Nome:</label>
+            <input type="text" value=""><br><br> 
+            <label>Senha:</label>
+            <input type="password"><br>
+            <label>Sexo:</label>
+            <input type="radio" value="Feminino">Feminino
+            <input type="radio" value="Masculino">Masculino
+            <br>
+            <br>
